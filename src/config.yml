@@ -1,0 +1,15 @@
+##########################################
+#               Bot Settings             #
+##########################################
+
+BOT_CONFIG:
+  NAME: "Billing Bot"
+  EMBED_COLOR: 0x7FFBE9
+  TOKEN: ""
+  GUILD_ID: ""
+  BOT_ID: ""
+  MONGO_URI: ""
+
+
+BILLING_CHANNEL: ""
+ADMIN_USER: ""
